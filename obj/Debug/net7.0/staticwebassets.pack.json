@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Atlas-Electronics.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Atlas-Electronics.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Atlas-Electronics.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Atlas-Electronics.props",
+      "PackagePath": "build\\Atlas-Electronics.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Atlas-Electronics.props",
+      "PackagePath": "buildMultiTargeting\\Atlas-Electronics.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Atlas-Electronics.props",
+      "PackagePath": "buildTransitive\\Atlas-Electronics.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

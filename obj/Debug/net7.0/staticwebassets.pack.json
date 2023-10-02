@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Atlas-Electronics.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Atlas-Electronics.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

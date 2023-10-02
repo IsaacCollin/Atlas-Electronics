@@ -24042,8 +24042,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\Pages\\Shared\\publicLayout.cshtml",
+      "TargetPath": "Pages\\Shared\\publicLayout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\Pages\\Shared\\adminLayouts.cshtml",
+      "TargetPath": "Pages\\Shared\\adminLayouts.cshtml",
       "FileKind": "mvc"
     }
   ]

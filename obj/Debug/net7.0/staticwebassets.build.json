@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4GKPt6yW0OeLG4TWHzRtwqTQOuwVEGNgNWtd8spufbM=",
+  "Hash": "3JDQvZCXJ3XmyPa6Rz57P85xyN9gdWAP4b0GlPtYjlE=",
   "Source": "Atlas-Electronics",
   "BasePath": "_content/Atlas-Electronics",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Atlas-Electronics.styles.css",
-      "SourceId": "Atlas-Electronics",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/Atlas-Electronics",
-      "RelativePath": "Atlas-Electronics.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Atlas-Electronics.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Atlas-Electronics.bundle.scp.css",
-      "SourceId": "Atlas-Electronics",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/Atlas-Electronics",
-      "RelativePath": "Atlas-Electronics.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Atlas-Electronics.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\icoll\\Documents\\General\\Projects\\C#\\.net\\Atlas-Electronics\\wwwroot\\css\\site.css",
       "SourceId": "Atlas-Electronics",

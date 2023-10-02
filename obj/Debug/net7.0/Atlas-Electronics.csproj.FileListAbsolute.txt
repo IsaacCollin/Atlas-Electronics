@@ -20,9 +20,7 @@ C:\Users\icoll\Documents\General\Projects\C#\.net\Atlas-Electronics\obj\Debug\ne
 C:\Users\icoll\Documents\General\Projects\C#\.net\Atlas-Electronics\obj\Debug\net7.0\staticwebassets.pack.json
 C:\Users\icoll\Documents\General\Projects\C#\.net\Atlas-Electronics\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\icoll\Documents\General\Projects\C#\.net\Atlas-Electronics\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\icoll\Documents\General\Projects\C#\.net\Atlas-Electronics\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\icoll\Documents\General\Projects\C#\.net\Atlas-Electronics\obj\Debug\net7.0\scopedcss\bundle\Atlas-Electronics.styles.css
-C:\Users\icoll\Documents\General\Projects\C#\.net\Atlas-Electronics\obj\Debug\net7.0\scopedcss\projectbundle\Atlas-Electronics.bundle.scp.css
 C:\Users\icoll\Documents\General\Projects\C#\.net\Atlas-Electronics\obj\Debug\net7.0\Atlas-Electronics.dll
 C:\Users\icoll\Documents\General\Projects\C#\.net\Atlas-Electronics\obj\Debug\net7.0\refint\Atlas-Electronics.dll
 C:\Users\icoll\Documents\General\Projects\C#\.net\Atlas-Electronics\obj\Debug\net7.0\Atlas-Electronics.pdb
